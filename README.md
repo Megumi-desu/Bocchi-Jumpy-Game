@@ -1,6 +1,6 @@
 # README for Bocchi-Jumpy-Game
 
-![Bocchi The Rock!](https://via.placeholder.com/300x200?text=Bocchi+Jumpy+Game) 
+![Image](https://github.com/user-attachments/assets/d01e3286-49dd-4714-bc40-0a8f58c4f553)
 ![Image](https://github.com/user-attachments/assets/4502a027-eed8-4b56-9367-953bbd688d92)
 
 ```markdown
