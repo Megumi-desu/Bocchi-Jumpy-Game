@@ -17,6 +17,7 @@ A simple 2D platformer game featuring Bocchi from *Bocchi The Rock!* anime, buil
 ## Requirements 🛠️
 - Python 3.x
 - Pygame library
+```
 
 ## Installation 📥
 1. Clone this repository:
