@@ -1,11 +1,10 @@
 # README for Bocchi-Jumpy-Game
 
-```markdown
-# Bocchi Jumpy Game 🎸
-
 ![Bocchi The Rock!](https://via.placeholder.com/300x200?text=Bocchi+Jumpy+Game) 
 ![Image](https://github.com/user-attachments/assets/4502a027-eed8-4b56-9367-953bbd688d92)
 
+```markdown
+# Bocchi Jumpy Game 🎸
 
 A simple 2D platformer game featuring Bocchi from *Bocchi The Rock!* anime, built with Pygame.
 
